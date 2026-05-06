@@ -1,0 +1,50 @@
+com.example.myapp-animation-core-release-0 C:\Users\danii\.gradle\caches\9.0.0\transforms\05055dd9c8a3245430072a26ab81e4c1\transformed\animation-core-release\res
+com.example.myapp-savedstate-1.2.1-1 C:\Users\danii\.gradle\caches\9.0.0\transforms\059f1e5f404ff92ca9a6115d8374774e\transformed\savedstate-1.2.1\res
+com.example.myapp-core-runtime-2.2.0-2 C:\Users\danii\.gradle\caches\9.0.0\transforms\0dc173047bcce7192c9e3a37b4d5ad24\transformed\core-runtime-2.2.0\res
+com.example.myapp-lifecycle-viewmodel-ktx-2.8.7-3 C:\Users\danii\.gradle\caches\9.0.0\transforms\1130795813e6d842882be9fe2ad6d15b\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.example.myapp-foundation-layout-release-4 C:\Users\danii\.gradle\caches\9.0.0\transforms\16e8227c42f36a1b3fc37241ebef7914\transformed\foundation-layout-release\res
+com.example.myapp-ui-unit-release-5 C:\Users\danii\.gradle\caches\9.0.0\transforms\1c8d247148e03c7c739b9d51e05ca632\transformed\ui-unit-release\res
+com.example.myapp-ui-tooling-data-release-6 C:\Users\danii\.gradle\caches\9.0.0\transforms\23481d3f1c9b692b7c792635a79dc0fc\transformed\ui-tooling-data-release\res
+com.example.myapp-savedstate-ktx-1.2.1-7 C:\Users\danii\.gradle\caches\9.0.0\transforms\246b59b084a258c7b9d930e97d9d687e\transformed\savedstate-ktx-1.2.1\res
+com.example.myapp-emoji2-1.3.0-8 C:\Users\danii\.gradle\caches\9.0.0\transforms\32b0ef375f289928d581a8c165669340\transformed\emoji2-1.3.0\res
+com.example.myapp-lifecycle-viewmodel-release-9 C:\Users\danii\.gradle\caches\9.0.0\transforms\3625250e9f1a66e3b14f22553d64d6f3\transformed\lifecycle-viewmodel-release\res
+com.example.myapp-material3-release-10 C:\Users\danii\.gradle\caches\9.0.0\transforms\379eab4244e9753a45ca01b7efda59c9\transformed\material3-release\res
+com.example.myapp-lifecycle-process-2.8.7-11 C:\Users\danii\.gradle\caches\9.0.0\transforms\3a431e57a352852af7de63ab81ae119b\transformed\lifecycle-process-2.8.7\res
+com.example.myapp-customview-poolingcontainer-1.0.0-12 C:\Users\danii\.gradle\caches\9.0.0\transforms\3c159928c90ab73633a8e6c451e29d6f\transformed\customview-poolingcontainer-1.0.0\res
+com.example.myapp-material-ripple-release-13 C:\Users\danii\.gradle\caches\9.0.0\transforms\411bdd55a8170ef3cc2501d2e4096a5a\transformed\material-ripple-release\res
+com.example.myapp-graphics-path-1.0.1-14 C:\Users\danii\.gradle\caches\9.0.0\transforms\42ccda68b84d39cff6ca4df87c8dbc19\transformed\graphics-path-1.0.1\res
+com.example.myapp-core-ktx-1.15.0-15 C:\Users\danii\.gradle\caches\9.0.0\transforms\44adc057744131bdac8875d43ea8252e\transformed\core-ktx-1.15.0\res
+com.example.myapp-ui-release-16 C:\Users\danii\.gradle\caches\9.0.0\transforms\4a3c97e40cf1cb1e0043fcb56e7e7be3\transformed\ui-release\res
+com.example.myapp-core-1.15.0-17 C:\Users\danii\.gradle\caches\9.0.0\transforms\4ecb2bb7b4685e9f81b791bbbfeadb07\transformed\core-1.15.0\res
+com.example.myapp-ui-util-release-18 C:\Users\danii\.gradle\caches\9.0.0\transforms\6be2c392df4ba5a03b4cf79540930228\transformed\ui-util-release\res
+com.example.myapp-ui-geometry-release-19 C:\Users\danii\.gradle\caches\9.0.0\transforms\78cf2177596dfe743a8c559496cb77a8\transformed\ui-geometry-release\res
+com.example.myapp-annotation-experimental-1.4.1-20 C:\Users\danii\.gradle\caches\9.0.0\transforms\78f78fc6a782ba1dc7a4b96dc0542c5a\transformed\annotation-experimental-1.4.1\res
+com.example.myapp-ui-test-manifest-1.7.5-21 C:\Users\danii\.gradle\caches\9.0.0\transforms\7a4905a247a4c3b9ae7960e1b263bb26\transformed\ui-test-manifest-1.7.5\res
+com.example.myapp-lifecycle-livedata-core-2.8.7-22 C:\Users\danii\.gradle\caches\9.0.0\transforms\7a54d123ded0173fddd888f660db7e25\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.myapp-material-release-23 C:\Users\danii\.gradle\caches\9.0.0\transforms\7f29b3a985cf5d1ada45bf47bef8bb47\transformed\material-release\res
+com.example.myapp-tracing-1.2.0-24 C:\Users\danii\.gradle\caches\9.0.0\transforms\887aa15d4ffccae0274a27ad592a2b5e\transformed\tracing-1.2.0\res
+com.example.myapp-ui-tooling-release-25 C:\Users\danii\.gradle\caches\9.0.0\transforms\91589f798f21729c17eb661b1e45d556\transformed\ui-tooling-release\res
+com.example.myapp-activity-ktx-1.9.3-26 C:\Users\danii\.gradle\caches\9.0.0\transforms\9363fbcfdec861b63e23f6ef5629c717\transformed\activity-ktx-1.9.3\res
+com.example.myapp-ui-tooling-preview-release-27 C:\Users\danii\.gradle\caches\9.0.0\transforms\94e1aa9a19b8ccda256340dd7455f8cd\transformed\ui-tooling-preview-release\res
+com.example.myapp-lifecycle-runtime-ktx-release-28 C:\Users\danii\.gradle\caches\9.0.0\transforms\984bc9417201c959dac35c0fccc69012\transformed\lifecycle-runtime-ktx-release\res
+com.example.myapp-ui-text-release-29 C:\Users\danii\.gradle\caches\9.0.0\transforms\9eb8a02dd768beb2a4f8e58b2af3449d\transformed\ui-text-release\res
+com.example.myapp-profileinstaller-1.3.1-30 C:\Users\danii\.gradle\caches\9.0.0\transforms\a359be93b4aed346f56206e096ac8a1a\transformed\profileinstaller-1.3.1\res
+com.example.myapp-runtime-saveable-release-31 C:\Users\danii\.gradle\caches\9.0.0\transforms\a7172fe796e2d6d1e60d8d29bf2e42a0\transformed\runtime-saveable-release\res
+com.example.myapp-animation-release-32 C:\Users\danii\.gradle\caches\9.0.0\transforms\b681e7cacd1988344c38403404bb2f66\transformed\animation-release\res
+com.example.myapp-ui-graphics-release-33 C:\Users\danii\.gradle\caches\9.0.0\transforms\c1cade5b896a47072429c1f76156d2d5\transformed\ui-graphics-release\res
+com.example.myapp-foundation-release-34 C:\Users\danii\.gradle\caches\9.0.0\transforms\c789373eaf7ff69f7eb8eaf0e4b8f6a5\transformed\foundation-release\res
+com.example.myapp-lifecycle-runtime-release-35 C:\Users\danii\.gradle\caches\9.0.0\transforms\ce512fbfd88cb303034dc9b4911ee955\transformed\lifecycle-runtime-release\res
+com.example.myapp-lifecycle-runtime-compose-release-36 C:\Users\danii\.gradle\caches\9.0.0\transforms\ce5f11ea4367ca968d0d65570afdb7bb\transformed\lifecycle-runtime-compose-release\res
+com.example.myapp-activity-compose-1.9.3-37 C:\Users\danii\.gradle\caches\9.0.0\transforms\d0c4cf834b4ec90f46db8a255a7632a4\transformed\activity-compose-1.9.3\res
+com.example.myapp-activity-1.9.3-38 C:\Users\danii\.gradle\caches\9.0.0\transforms\d85c40b6490ad1889600ccc7ae137347\transformed\activity-1.9.3\res
+com.example.myapp-lifecycle-viewmodel-savedstate-2.8.7-39 C:\Users\danii\.gradle\caches\9.0.0\transforms\f1e73b636002351b7fd7ddf58039dbee\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.myapp-material-icons-core-release-40 C:\Users\danii\.gradle\caches\9.0.0\transforms\f2fadb2ce05470ca3ef4037a8e76c285\transformed\material-icons-core-release\res
+com.example.myapp-runtime-release-41 C:\Users\danii\.gradle\caches\9.0.0\transforms\f5d1deaaea687abd4634633e9633e9de\transformed\runtime-release\res
+com.example.myapp-startup-runtime-1.1.1-42 C:\Users\danii\.gradle\caches\9.0.0\transforms\f870b61e45a1f3c339223886c63b1f9f\transformed\startup-runtime-1.1.1\res
+com.example.myapp-pngs-43 C:\Users\danii\OneDrive\1 - UNI\28. Android App Dev\app\build\generated\res\pngs\debug
+com.example.myapp-resValues-44 C:\Users\danii\OneDrive\1 - UNI\28. Android App Dev\app\build\generated\res\resValues\debug
+com.example.myapp-packageDebugResources-45 C:\Users\danii\OneDrive\1 - UNI\28. Android App Dev\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.myapp-packageDebugResources-46 C:\Users\danii\OneDrive\1 - UNI\28. Android App Dev\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.myapp-debug-47 C:\Users\danii\OneDrive\1 - UNI\28. Android App Dev\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.myapp-debug-48 C:\Users\danii\OneDrive\1 - UNI\28. Android App Dev\app\src\debug\res
+com.example.myapp-main-49 C:\Users\danii\OneDrive\1 - UNI\28. Android App Dev\app\src\main\res
